@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, i'm a backend developer from 🇷🇺
+
+![EgorHenek's github stats](https://egorhenek-stats.vercel.app/api?username=egorhenek&hide=stars&show_icons=true&theme=transparent&rank_icon=github)
