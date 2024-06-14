@@ -18,3 +18,17 @@ Here are some ideas to get you started:
 Hello, i'm a backend developer from 🇷🇺
 
 ![EgorHenek's github stats](https://egorhenek-stats.vercel.app/api?username=egorhenek&hide=stars&show_icons=true&theme=transparent&rank_icon=github)
+
+## Languages and Tools
+
+### Languages
+
+| Python | Rust | GO |
+|:------:|:----:|:--:|
+| ![64px-Python-logo-notext svg](https://github.com/EgorHenek/EgorHenek/assets/3796362/eb1454c5-8459-42ea-8abd-7fa791d576d6) | ![64px-Rust_programming_language_black_logo svg](https://github.com/EgorHenek/EgorHenek/assets/3796362/7194d394-79db-4d5e-922d-5f7d6a549ec3) | ![64px-Go_Logo_Blue svg](https://github.com/EgorHenek/EgorHenek/assets/3796362/5f44a3bd-12e4-49d3-aa1c-34a65e065c34) |
+
+### OS
+
+| MacOS on a laptop | Linux on servers |
+| :---------------: | :-------------: |
+| ![MacOS](https://github.com/EgorHenek/EgorHenek/assets/3796362/e7e41e89-eb16-473b-9ef7-af8790aa2be6) | ![Linux](https://github.com/EgorHenek/EgorHenek/assets/3796362/db8fc247-aa98-428c-bb39-4232186c646e) |
