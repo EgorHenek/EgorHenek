@@ -32,3 +32,8 @@ Hello, i'm a backend developer from 🇷🇺
 | MacOS on a laptop | Linux on servers |
 | :---------------: | :-------------: |
 | ![MacOS](https://github.com/EgorHenek/EgorHenek/assets/3796362/e7e41e89-eb16-473b-9ef7-af8790aa2be6) | ![Linux](https://github.com/EgorHenek/EgorHenek/assets/3796362/db8fc247-aa98-428c-bb39-4232186c646e) |
+
+### Terminal
+| WezTerm | fish | Helix Editor |
+|:-------:|:----:|:------------:|
+| ![wezterm](https://github.com/EgorHenek/EgorHenek/assets/3796362/33759aa8-c848-40fe-a10e-d2ffefb83d62) | ![fish](https://github.com/EgorHenek/EgorHenek/assets/3796362/94cdb929-d879-4572-94fa-827974c7e3c1) |![helix](https://github.com/EgorHenek/EgorHenek/assets/3796362/34cd6d97-5162-41f3-804c-7b4e708a6d8c)
